@@ -3,7 +3,7 @@ This repository contains the code for the paper doi: https://doi.org/10.1016/j.n
 
 An adapted version of the code will be available soon.
 
-For confidential issues, the architecture is needed to be adapted to an open-access database with the same characteristic of the database used on the publication.
+For confidential issues, the code is needed to be adapted to an open-access database with the same characteristic of the database used on the publication.
 
 # Paper Abstract
 
